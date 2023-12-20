@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93543189373",
+    "project_id": "groovylamp-7e2cb",
+    "storage_bucket": "groovylamp-7e2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93543189373:android:eabb7e3fb71e72423c5a14",
+        "android_client_info": {
+          "package_name": "com.groovylamp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVH6P-99TMfG0EdVcp9ceubsYzSuwZVaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
